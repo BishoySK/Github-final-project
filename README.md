@@ -1,6 +1,6 @@
 # Github-final-project
 
-rbg(26,56,99) Final Assignment of Git&Github Course Coursera by IBM 
+`#ffffee` Final Assignment of Git&Github Course Coursera by IBM 
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
